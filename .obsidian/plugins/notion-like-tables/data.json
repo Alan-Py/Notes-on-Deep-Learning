@@ -1,0 +1,157 @@
+{
+  "data": {
+    "table-id-p4c2Zn": {
+      "model": {
+        "columnIds": [
+          "column-id-kBcZFM5l",
+          "column-id-6I49DCGi"
+        ],
+        "rowIds": [
+          "row-id-rZchLAdA",
+          "row-id-knl4FnbT",
+          "row-id-5WtIH3zB"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-dbcUoIVO",
+            "columnId": "column-id-kBcZFM5l",
+            "rowId": "row-id-rZchLAdA",
+            "markdown": "公式",
+            "html": "公式",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-uNpoxhZC",
+            "columnId": "column-id-6I49DCGi",
+            "rowId": "row-id-rZchLAdA",
+            "markdown": "希腊字母",
+            "html": "希腊字母",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-RsrTTvdI",
+            "columnId": "column-id-kBcZFM5l",
+            "rowId": "row-id-knl4FnbT",
+            "markdown": "\\alpha",
+            "html": "\\alpha",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-54w5qAMR",
+            "columnId": "column-id-6I49DCGi",
+            "rowId": "row-id-knl4FnbT",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-hF3lUpcw",
+            "columnId": "column-id-kBcZFM5l",
+            "rowId": "row-id-5WtIH3zB",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          },
+          {
+            "id": "cell-id-DVIFd6O3",
+            "columnId": "column-id-6I49DCGi",
+            "rowId": "row-id-5WtIH3zB",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-kBcZFM5l": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          },
+          "column-id-6I49DCGi": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": true,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-rZchLAdA": {
+            "creationDate": 1673055601971
+          },
+          "row-id-knl4FnbT": {
+            "creationDate": 1673055601972
+          },
+          "row-id-5WtIH3zB": {
+            "creationDate": 1673055746418
+          }
+        }
+      },
+      "pluginVersion": 505
+    },
+    "table-id-Ff9ykR": {
+      "model": {
+        "columnIds": [
+          "column-id-P7NawYTx"
+        ],
+        "rowIds": [
+          "row-id-7yyUeix7",
+          "row-id-vtKVNmss"
+        ],
+        "cells": [
+          {
+            "id": "cell-id-WXUTUrfh",
+            "columnId": "column-id-P7NawYTx",
+            "rowId": "row-id-7yyUeix7",
+            "markdown": "New Column",
+            "html": "New Column",
+            "isHeader": true
+          },
+          {
+            "id": "cell-id-JvDpDLXq",
+            "columnId": "column-id-P7NawYTx",
+            "rowId": "row-id-vtKVNmss",
+            "markdown": "",
+            "html": "",
+            "isHeader": false
+          }
+        ]
+      },
+      "settings": {
+        "columns": {
+          "column-id-P7NawYTx": {
+            "sortDir": "default",
+            "width": "120px",
+            "type": "text",
+            "useAutoWidth": false,
+            "shouldWrapOverflow": false,
+            "tags": []
+          }
+        },
+        "rows": {
+          "row-id-7yyUeix7": {
+            "creationDate": 1676033301146
+          },
+          "row-id-vtKVNmss": {
+            "creationDate": 1676033301147
+          }
+        }
+      },
+      "pluginVersion": 505
+    }
+  },
+  "tableFolder": "_notion-like-tables",
+  "viewModeSync": {
+    "tableId": "table-id-p4c2Zn",
+    "viewModes": [],
+    "eventType": "update-state"
+  },
+  "shouldClear": false,
+  "shouldDebug": false
+}
