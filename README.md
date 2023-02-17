@@ -10,7 +10,7 @@
 
 ### Lilian blog 学习笔记
 
-[Lilian blog 学习笔记](diffusion\Lilian blog 学习笔记\Lilian blog 学习笔记.md)
+[Lilian blog 学习笔记](diffusion/Lilian blog 学习笔记/Lilian blog 学习笔记.md)
 
-[KL散度，交叉熵](diffusion\Lilian blog 学习笔记\KL散度，交叉熵.md)
+[KL散度，交叉熵](diffusion/Lilian blog 学习笔记/KL散度，交叉熵.md)
 
