@@ -6,7 +6,7 @@
   ],
   "spellcheck": false,
   "newFileLocation": "current",
-  "attachmentFolderPath": "/asset",
+  "attachmentFolderPath": ".//asset",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
@@ -21,5 +21,7 @@
   "autoPairMarkdown": false,
   "userIgnoreFilters": null,
   "autoPairBrackets": false,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": false
 }

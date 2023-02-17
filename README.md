@@ -14,3 +14,4 @@
 
 [KL散度，交叉熵](diffusion/Lilian%20blog%20学习笔记/KL散度，交叉熵.md)
 
+[马可夫链](diffusion/Lilian%20blog%20学习笔记/Marcov%20Chain.md)
