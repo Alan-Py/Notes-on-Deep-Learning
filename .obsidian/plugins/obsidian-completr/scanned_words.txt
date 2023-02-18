@@ -1921,6 +1921,7 @@ oHBxE
 oWs
 oGw
 okh
+obsidian
 Linearized
 Length
 Lang
@@ -22361,6 +22362,7 @@ NcQ
 NES
 Nnt
 NGZ
+Notes
 OpenAction
 Outlines
 OutputIntents
@@ -38762,6 +38764,7 @@ bsfTy
 bTq
 bqqy
 bJu
+blog
 QPlcs
 QPEZ
 QW
@@ -43183,6 +43186,7 @@ mYW
 mgW
 mSn
 maW
+markdown
 JH
 JS
 JtdE
@@ -54627,6 +54631,7 @@ aPy
 aSv
 adPr
 arJ
+asset
 ÖG
 ÖN
 ÖR

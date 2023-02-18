@@ -23,5 +23,6 @@
   "autoPairBrackets": false,
   "showFrontmatter": true,
   "useMarkdownLinks": true,
-  "showUnsupportedFiles": false
+  "showUnsupportedFiles": false,
+  "newLinkFormat": "relative"
 }

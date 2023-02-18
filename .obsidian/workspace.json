@@ -11,8 +11,13 @@
             "id": "e4c76d99ff4e7919",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "diffusion/Lilian blog 学习笔记/Lilian blog 学习笔记.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "diffusion/Lilian blog 学习笔记/Lilian blog 学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "diffusion/Lilian blog 学习笔记/Lilian blog 学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "diffusion/Lilian blog 学习笔记/Lilian blog 学习笔记.md"
+              }
             }
           }
         ]
@@ -130,6 +139,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
@@ -140,5 +150,9 @@
     }
   },
   "active": "e4c76d99ff4e7919",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "diffusion/Lilian blog 学习笔记/KL散度，交叉熵.md",
+    "README.md",
+    "diffusion/Lilian blog 学习笔记/Lilian blog 学习笔记.md"
+  ]
 }
