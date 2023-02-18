@@ -10,7 +10,7 @@
 
 ### 论文笔记
 
-[**《lmproved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks》笔记**](diffusion/lmproved%20HER2%20Tumor%20Segmentation%20with%20Subtype%20Balancing%20using%20Deep%20Generative%20Networks/《lmproved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks》笔记.md)
+[lmproved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks](diffusion/lmproved%20HER2%20Tumor%20Segmentation%20with%20Subtype%20Balancing%20using%20Deep%20Generative%20Networks/《lmproved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks》笔记.md)
 
 ### Lilian blog 学习笔记
 
