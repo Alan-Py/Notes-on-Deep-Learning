@@ -1,4 +1,9 @@
+[TOC]
+
+# **《lmproved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks》笔记**
+
 [论文地址](https://arxiv.org/abs/2211.06150)
+
 ## 摘要
 组织病理学肿瘤图像分割由于各种亚型的不同以及分类的不均衡导致的采样问题常常会导致过拟合现象，本篇文章通过使用diffusion和GAN来生成合成基于亚类型的图像，将合成图像与原始数据集结合，从而提高HER2肿瘤分割的得分。
 [肿瘤的亚型](https://www.jianshu.com/p/4e6383c66dcc)

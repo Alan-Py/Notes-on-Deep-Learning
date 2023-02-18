@@ -8,6 +8,10 @@
 
 ## diffusion模型
 
+### 论文笔记
+
+[**《lmproved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks》笔记**](diffusion/lmproved%20HER2%20Tumor%20Segmentation%20with%20Subtype%20Balancing%20using%20Deep%20Generative%20Networks/《lmproved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks》笔记.md)
+
 ### Lilian blog 学习笔记
 
 [Lilian blog 学习笔记](diffusion/Lilian%20blog%20学习笔记/Lilian%20blog%20学习笔记.md)
@@ -15,3 +19,4 @@
 [KL散度，交叉熵](diffusion/Lilian%20blog%20学习笔记/KL散度，交叉熵.md)
 
 [马可夫链](diffusion/Lilian%20blog%20学习笔记/Marcov%20Chain.md)
+
