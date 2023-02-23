@@ -13,7 +13,7 @@
 
 [Diffusion Autoencoders：Toward a Meaningful and Decodable Representation](diffusion/Diffusion%20Autoencoders：Toward%20a%20Meaningful%20and%20Decodable%20Representation/Diffusion%20Autoencoders：Toward%20a%20Meaningful%20and%20Decodable%20Representation.pdf)
 
-[Can Segmentation Models Be Trained with Fully Synthetically Generated Data](diffusion/Can%20Segmentation%20Models%20Be%20Trained%20with%20Fully%20Synthetically%20Generated%20Data.pdf)
+[Can Segmentation Models Be Trained with Fully Synthetically Generated Data](diffusion/Can%20Segmentation%20Models%20Be%20Trained%20with%20Fully%20Synthetically%20Generated%20Data/Can%20Segmentation%20Models%20Be%20Trained%20with%20Fully%20Synthetically%20Generated%20Data.pdf)
 
 
 ### Lilian blog 学习笔记
