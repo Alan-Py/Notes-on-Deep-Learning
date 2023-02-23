@@ -10,8 +10,10 @@
 
 ### 论文笔记
 [lmproved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks](diffusion/lmproved%20HER2%20Tumor%20Segmentation%20with%20Subtype%20Balancing%20using%20Deep%20Generative%20Networks)
+
 [Diffusion Autoencoders：Toward a Meaningful and Decodable Representation](diffusion/Diffusion%20Autoencoders：Toward%20a%20Meaningful%20and%20Decodable%20Representation/Diffusion%20Autoencoders：Toward%20a%20Meaningful%20and%20Decodable%20Representation.pdf)
-[Can Segmentation Models Be Trained with Fully Synthetically Generated Data](Can%20Segmentation%20Models%20Be%20Trained%20with%20Fully%20Synthetically%20Generated%20Data.pdf)
+
+[Can Segmentation Models Be Trained with Fully Synthetically Generated Data](diffusion/Can%20Segmentation%20Models%20Be%20Trained%20with%20Fully%20Synthetically%20Generated%20Data.pdf)
 
 
 ### Lilian blog 学习笔记
